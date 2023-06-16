@@ -1,0 +1,21 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "project for cit",
+  "main": "p3-server js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "idk"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fastify": "^4.18.0"
+  }
+}
